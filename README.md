@@ -40,23 +40,28 @@ The program generates an image similar to this structure:
 - White background
 - Saved as: **output.png**
 
-yyy
+![Attendance Chart](assets/Word_Cloud_137_Text.png)
 
 ---
 
 ## Usage
 
 1. Install the required library:
-
+   ``` bash
    pip install pillow
+   ```
+   
+3. Place your text inside
+   ``` bash
+   wordcloud_hdata.txt
+   ```
 
-2. Place your text inside `wordcloud_hdata.txt`.
-
-3. Run the script:
-
+5. Run the script:
+   ``` bash
    python wordcloud_generator.py
+   ```
 
-4. Check the generated `output.png` file.
+6. Check the generated `output.png` file.
 
 ---
 
