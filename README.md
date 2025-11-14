@@ -70,3 +70,15 @@ The program generates an image similar to this structure:
 - Digits and symbols are ignored by design.
 - You can extend the script to include digits or create a more advanced word cloud.
 - Canvas size, font size, and layout randomness can be modified inside the script.
+
+---
+
+## Tags
+`Python` `Word Cloud` `Text File` `Portfolio`
+
+---
+
+*Author:* [@g3raldatsc](https://github.com/g3raldatsc)
+<p align="center">
+  <img src="https://media.tenor.com/rS-u5lIUQWsAAAAM/anime-coding.gif" width="200" alt="Anime Gif">
+</p>
